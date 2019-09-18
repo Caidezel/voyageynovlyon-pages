@@ -5,13 +5,13 @@
     <description>Retrouvez toutes les informations des voyages organisés par le campus Ynov de Lyon.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Sep 2019 11:12:24 +0200</pubDate>
-    <lastBuildDate>Wed, 18 Sep 2019 11:12:24 +0200</lastBuildDate>
+    <pubDate>Wed, 18 Sep 2019 11:50:19 +0200</pubDate>
+    <lastBuildDate>Wed, 18 Sep 2019 11:50:19 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Voyage 2019-2020 : direction Cape Town !</title>
-        <description>&lt;h2 id=&quot;cette-année-le-campus-ynov-lyon-vous-propose-de-voyager-vers-lafrique-du-sud-&quot;&gt;Cette année, le campus Ynov Lyon vous propose de voyager vers l’afrique du Sud !&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;cette-année-le-campus-ynov-lyon-vous-propose-de-voyager-vers-lafrique-du-sud-&quot;&gt;Cette année, le campus Ynov Lyon vous propose de voyager vers l’Afrique du Sud !&lt;/h2&gt;
 
 &lt;p&gt;Rome, Lisbonne, Berlin, Montreal, New York, depuis 4 ans, le campus Ynov de Lyon propose des voyages à ses étudiants.&lt;/p&gt;
 
@@ -21,7 +21,7 @@
 
 &lt;h2 id=&quot;notre-souhait-&quot;&gt;Notre souhait ?&lt;/h2&gt;
 
-&lt;p&gt;Vous proposez un voyage que vous n’auriez jamais fait de votre côté !&lt;/p&gt;
+&lt;p&gt;Vous proposer un voyage que vous n’auriez jamais fait de votre côté !&lt;/p&gt;
 
 &lt;p&gt;C’est avec une expérience du voyage accrue par ses anciennes expériences que l’équipe d’Ynov Lyon, vous propose cette année de partir à la découverte de l’Afrique du Sud et de Cape Town du &lt;strong&gt;25 avril au 3 mai.&lt;/strong&gt;&lt;/p&gt;
 
@@ -45,7 +45,7 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Programme préparatoire encours de finalisation et sujet à des changements.&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Programme préparatoire en cours de finalisation et sujet à des changements.&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -102,7 +102,7 @@
 
 &lt;h2 id=&quot;comment-sinscrire-&quot;&gt;Comment s’inscrire ?&lt;/h2&gt;
 
-&lt;p&gt;Ne tardez plus et téléchargez le bulletin d’inscription qui contient toutes les informations, il vous suffit d’apporter ce bulletin à l’acceuil du campus avant le 31 octobre à 12h !&lt;/p&gt;
+&lt;p&gt;Ne tardez plus et téléchargez le bulletin d’inscription qui contient toutes les informations, il vous suffit d’apporter ce bulletin à l’accueil du campus avant le 31 octobre à 12h !&lt;/p&gt;
 
 &lt;main class=&quot;flex flex-wrap justify-around align-item items-center&quot;&gt;
   &lt;div class=&quot;flex flex-column mb2 items-center&quot;&gt;
@@ -112,8 +112,8 @@
   &lt;/div&gt;
 &lt;/main&gt;
 
-&lt;p&gt;Le prix du voyage est affiché à 1200€, hors frais de bouche et transports hors activité (voir fiche d’inscription pour plus de détail)
-Le campus se réserve la possiblité d’annuler le voyage si moins de 30 personnes peuvent s’inscrire. 40 places sont ouvertes avant liste d’attente.&lt;/p&gt;
+&lt;p&gt;Le prix du voyage est affiché à 1200€, hors frais de bouche et transports dans le cadre d’activité non programmé (voir fiche d’inscription pour plus de détail)
+Le campus se réserve la possiblité d’annuler le voyage si moins de 30 personnes peuvent s’inscrire. 40 places sont ouvertes avant la liste d’attente.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -134,7 +134,7 @@ Le campus se réserve la possiblité d’annuler le voyage si moins de 30 person
         <title>Les voyages Ynov, petit retour en images</title>
         <description>&lt;h2 id=&quot;quelques-images-des-anciens-voyages-ynov-lyon&quot;&gt;Quelques images des anciens voyages Ynov Lyon.&lt;/h2&gt;
 
-&lt;p&gt;Depuis 2015, persuadé que les rencontres et l’ouverture d’esprit font parti de socle de l’éducation de demain, le campus Ynov de Lyon s’efforce de proposer des voyages à ses sections. Du voyage d’intiation artistiques proposés aux étudiants de ses filières en design, jusqu’au voyage campus proposé à la totalité des étudiants, nous essayons de proposer ce qui nous semble le meilleur.&lt;/p&gt;
+&lt;p&gt;Depuis 2015, persuadé que les rencontres et l’ouverture d’esprit font parti du socle de l’éducation de demain, le campus Ynov de Lyon s’efforce de proposer des voyages à ses sections. Du voyage d’intiation artistique proposé aux étudiants de ses filières en design, jusqu’au voyage campus proposé à la totalité des étudiants, nous essayons de proposer ce qui nous semble le meilleur.&lt;/p&gt;
 
 &lt;h3 id=&quot;proposer-un-véritable-voyage-qui-sors-du-commun&quot;&gt;Proposer un véritable voyage qui sors du commun.&lt;/h3&gt;
 
@@ -143,12 +143,12 @@ Le campus se réserve la possiblité d’annuler le voyage si moins de 30 person
 &lt;p&gt;Que cela soit par :&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;La destination : Rome, Lisbonne, Berlin, des capitales européennes au passif artistique et culturelles, ou Montréal et New-York, deux hubs technologiques, culturelles, passionnant à découvrir.&lt;/li&gt;
+  &lt;li&gt;La destination : Rome, Lisbonne, Berlin, des capitales européennes au passif artistique et culturelles, ou Montréal et New-York, deux hubs technologiques, culturels, passionnants à découvrir.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/souvenirs/montrealphoto.jpg&quot; width=&quot;100%&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Les activités culturelles. Voyagez et toujours un temps fort pour partir à la rencondre d’une culture différente de la sienne et confrontez sa vision au monde. C’est aussi un temps important pour compléter son savoir, les musées, lieux forts et historiques sont donc de la partie !&lt;/li&gt;
+  &lt;li&gt;Les activités culturelles. Voyager est toujours un temps fort pour partir à la rencondre d’une culture différente de la sienne et confronter sa vision au monde. C’est aussi un temps important pour compléter son savoir, les musées, lieux forts et historiques sont donc de la partie !&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/souvenirs/kanatha.jpg&quot; width=&quot;100%&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot; /&gt;&lt;/p&gt;
@@ -156,7 +156,7 @@ Le campus se réserve la possiblité d’annuler le voyage si moins de 30 person
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/souvenirs/montrealmiam.jpg&quot; width=&quot;100%&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Les activités créatives. Comment se crée l’art ailleurs ? Il faut parfois savoir sortir des musées, et partir à la rencontre des habitants, graffeurs, et créateurs pour mieux saisir ce qui anime le monde d’aujourd’hui.&lt;/li&gt;
+  &lt;li&gt;Les activités créatives. Comment se créer l’art ailleurs ? Il faut parfois savoir sortir des musées, et partir à la rencontre des habitants, graffeurs, et créateurs pour mieux saisir ce qui anime le monde d’aujourd’hui.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/articles/souvenirs/berlinwall.jpg&quot; width=&quot;100%&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot; /&gt;&lt;/p&gt;
