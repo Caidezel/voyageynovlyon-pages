@@ -3,10 +3,10 @@
   <channel>
     <title>Les voyages d'Ynov Lyon</title>
     <description>Retrouvez toutes les informations des voyages organisés par le campus Ynov de Lyon.</description>
-    <link>http://localhost:4000//</link>
-    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Sep 2019 11:50:19 +0200</pubDate>
-    <lastBuildDate>Wed, 18 Sep 2019 11:50:19 +0200</lastBuildDate>
+    <link>http://voyages.ynovlyon.com//</link>
+    <atom:link href="http://voyages.ynovlyon.com//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 25 Sep 2019 20:38:55 +0200</pubDate>
+    <lastBuildDate>Wed, 25 Sep 2019 20:38:55 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -122,8 +122,8 @@ Le campus se réserve la possiblité d’annuler le voyage si moins de 30 person
 &lt;p&gt;10 places sont ouvertes aux alumnis 2018-2019, merci de contacter &lt;a href=&quot;mailto:antoine.gouy@ynov.com&quot;&gt;antoine.gouy@ynov.com&lt;/a&gt; pour booker votre place !&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Sep 2019 20:01:34 +0200</pubDate>
-        <link>http://localhost:4000//voyage-captown</link>
-        <guid isPermaLink="true">http://localhost:4000//voyage-captown</guid>
+        <link>http://voyages.ynovlyon.com//voyage-captown</link>
+        <guid isPermaLink="true">http://voyages.ynovlyon.com//voyage-captown</guid>
         
         <category>voyage</category>
         
@@ -176,8 +176,8 @@ Et je serais ravi d’échanger avec quiconque à ce sujet !&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 15 Aug 2019 15:34:12 +0200</pubDate>
-        <link>http://localhost:4000//souvenirs</link>
-        <guid isPermaLink="true">http://localhost:4000//souvenirs</guid>
+        <link>http://voyages.ynovlyon.com//souvenirs</link>
+        <guid isPermaLink="true">http://voyages.ynovlyon.com//souvenirs</guid>
         
         <category>voyage</category>
         
