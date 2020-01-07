@@ -3,11 +3,352 @@
   <channel>
     <title>Les voyages d'Ynov Lyon</title>
     <description>Retrouvez toutes les informations des voyages organisés par le campus Ynov de Lyon.</description>
-    <link>http://voyages.ynovlyon.com//</link>
-    <atom:link href="http://voyages.ynovlyon.com//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Sep 2019 20:38:55 +0200</pubDate>
-    <lastBuildDate>Wed, 25 Sep 2019 20:38:55 +0200</lastBuildDate>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 07 Jan 2020 17:35:24 +0100</pubDate>
+    <lastBuildDate>Tue, 07 Jan 2020 17:35:24 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Si on va pas en Afrique, on se casse où ?</title>
+        <description>&lt;h2 id=&quot;vous-avez-été-nombreux-à-répondre-au-sondage-&quot;&gt;Vous avez été nombreux à répondre au sondage !&lt;/h2&gt;
+
+&lt;p&gt;Suite à l’annulation du voyage que je vous proposais en Afrique du Sud : il n’y avait pas assez d’inscrits… 
+Je me suis longuement gratté la tête…&lt;/p&gt;
+
+&lt;p&gt;Qu’est-ce qui provoque cela réellement ? 
+Le prix ? La destination ? La date ? Les activités ? Vous vous en fichez ?
+Il est possible de faire beaucoup de conjectures et de noeuds au cerveau, donc il me semble très simple de faire quelque chose d’halluuuucinnant …&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;… VOUS DEMANDEZ VOTRE AVIS 😱 ?!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;les-résultats-sont-parlants-&quot;&gt;Les résultats sont parlants !&lt;/h2&gt;
+
+&lt;p&gt;Bon, hormis les quelques trolls habituels (bande de margoulins) qui se sont promenés dans les réponses, vous êtes 61 à avoir pris le temps de répondre ! Donc je trouve naturel de vous présenter les résultats ! Voici un petit débrief de vos réponses :&lt;/p&gt;
+
+&lt;h3 id=&quot;linformation-quant-au-voyage-&quot;&gt;L’information quant au voyage :&lt;/h3&gt;
+
+&lt;p&gt;Vous étiez 61 à répondre et évidemment 61 à avoir été au courant qu’un voyage été organisé.
+Bizarrement, seulement la moitié d’entre vous sont venus faire un tour sur ce site.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/annulation/voyage01.png&quot; width=&quot;100%&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vous avez réagis différement quant au site :&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Vos retours à la question, qu’avez-vous pensé du site ?*&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Il etait bien fait !&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Pas grand chose j’y suis pas allé&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;C’est interessant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Je trouvais ça top tous ce qui étais prévu&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;pas été sur le site&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Le site est assez explicite, pas de souci sur cela&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Le site était bien fait&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Le site est bien pour les participants et ceux qui veulent profiter du voyage. A utiliser sur place, par la suite pour les futurs voyages je pense&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Intéressé mais trop chère&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Une super idée, c’est un pays où je ne serais jamais allée seule. J’ai cependant longtemps hésité à m’inscrire à cause du prix. Mais je suis déçu de l’annulation du voyage, c’est un pays que j’aurais aimé découvrir.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Non visité car non intéressé à la vue du prix&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Le voyage et la destination avait l’air extrêmement intéressant. L’idée etait genialissime.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modalité d’inscription pas assez mise en avant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Voyage très intéressant d’un point de vue culturel mais beaucoup trop cher, j’ai pas les moyens aujourd’hui&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Beaucoup trop cher, en plus de payer l’année&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Je pensais que l’information allait être transmises un peu plus tard&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;je ne suis pas allé sur le site car j’avais oublié&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Le séjour était très détaillé&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Je trouve l’idée de la destination intéressante et les activités vachement cool, malheureusement comme pour les autres voyages je trouve le prix assez élevé :/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Je voulais allez au Japon&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;J’étais très intéressé, chaque année je souhaiterais y participer.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;je trouve que ça n’a pas été assez mis en avant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Il était claire aux niveaux des informations&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Le voyage semblait intéressant, cependant trop cher en savant qu’il faut prendre en compte un budget pour l’alimentation. Personnellement, ce voyage aurait pu m’intéresser si le prix était plus bas. Après, un voyage qui aurait été intéressant de faire c’est voir les pays nordiques ou la Corée du Sud qui ont une culture et un rythme de vie à part&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Très bon programme, un voyage que j’aurais aimé faire mais financièrement je n’ai pas les moyens de participer.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;J’étais très intéressée et je comptais m’inscrire, je ne l’ai pas fait directement car j’ai dû attendre un retour de mon entreprise et de ma famille afin de m’aider à le financer. Sinon concernant le voyage en lui-même j’étais très motivée et j’avais hâte de découvrir l’Afrique du Sud je trouve ça cool de proposer des destinations comme celle-ci.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Le voyage est vraiment intéressant, mais financièrement ce n’est pas du tout envisageable, je passe mon temps à me restreindre pour survivre financièrement, par exemple ce matin il faisait 11 degrés car je n’ai pas assez pour mettre le chauffage… Je pense qu’un voyage est donc hors de propos…&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Le voyage avait l’air intéressant et enrichissant. Cependant très mal organisé par rapport aux cours. Il n’y a pas de temps banalisé pour le voyage, ce qui oblige les alternants à prendre des jours. Comment on fait si on paye le voyage, qu’on demande nos jours et qu’au final on ne peut pas partir à cause de l’entreprise ? On paye pour rien ? Vous nous remboursez ?&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Le prix étant trop élevé je n’ai pas pris la peine de regarder plus en détail malgré la destination intéréssante&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;J’avais déjà participé au voyage à Montréal car la destination était intéressante, le prix relativement correcte, mais surtout parce que là-bas, j’avais un ami qui faisait son stage d’IUT. De ce fait, cela me donnait une occasion pour le voir sur place.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Bien souvent, ce qui me frustre un peu avec ces voyages Ynov, c’est que le programme est trop mystérieux, et je ne sais pas exactement d’avance si c’est intéressant économiquement ou non.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Les activités du voyage de Montréal étaient chouette (visite guidée, journée professionnelle, etc).&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;votre-avis-sur-la-destination--lafrique-&quot;&gt;Votre avis sur la destination : l’Afrique !&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/annulation/voyage02.jpg&quot; width=&quot;100%&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On voit clairement une première constante qui ressort sur le ressenti. Pas la peine de vous faire mariner, vous êtes nombreux à trouver çà cher !&lt;/p&gt;
+
+&lt;p&gt;Surtout que quand on vous demande votre avis sur le voyage proposé vous répondez :&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Vos retours à la question, si tu avais quelque chose à dire sur le voyage proposé…*&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Intéressant mais cher !&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Sympa mais l’Afrique du Sud n’est pas un endroit qui m’intéresse&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Malheureusement j’ai beaucoup de charges actuellement&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;L’Afrique du Sud ne m’intéresse pas tant que ça&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Tout étais bien mais pour des étudiant le prix est au dessus de mes moyens&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;trop cher pour une semaine&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Bon choix de destination, intéressant mais trop onéreux&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Je sais que ce n’est pas facile mai j’aurai préférée un voyage moins chère..&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Sûrement la destination qui est à revoir :/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Un voyage est une merveilleuse idée, mais pour ma part je n’ai pas pris ma place car je me préserve pour un voyage qui me fera vraiment rêver au vu du prix.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Voyage intéressant mais compliqué à envisager avec un budget d’étudiant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;La destination me semblait intéressante, ça change du deja vu et les activités me semblait très intéressante aussi (et le culturel aussi d’ailleurs)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;moins chère quitte a partir moins loin&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;A part le prix qui m’a un peu freiné au départ. C’était une chouette idée&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;J’aime les aventures et les histoires et y aller m’aurai beaucoup plu. Malheureusement je n’avais pas les moyens pour faire ce voyage. Si vous proposez autre chose, je reste ouverte à vos suggestions =)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Très intéressée par le voyage, coûts financier beaucoup trop élevé&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Voyage qui change de l’ordianaire et de ce que l’on ferait par nos propres moyens&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Je n’aime pas tellement la destination malgré le paysage qui peut être magnifique&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Cher (les billets d’avions coutent bcp - cher en prix seul donc en « prix de groupe » ça doit être encore moins cher&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Permettre de découvrir un pays&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Je trouve les idées de voyages et d’activités superbes, un gros bravo à Antoine pour toute l’organisation autour de ça, malheureusement comme déjà évoqué, je bloque plus au niveau du prix&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;J’aurai préféré un voyage au Japon&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;J’aurais aimé y participer&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Faire plus de communication dessus et peut être donner des délais plus long pour que les étudiants puissent économiser avec leur alternance si possible&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Trop cher et la nourriture a payé en plus, c’était trop lourd financièrement&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Rien je voulais participer le programme était nickel.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Celui-ci est vraiment intéressant, c’est une occasion unique car je ne pense pas avoir d’autre occasion dans ma vie d’y aller…&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Je vois cette ville comme une ville dangereuses pour les femmes, ça m’a beaucoup freinée, en plus du prix&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Le voyage est vraiment intéressant mais c’est une destination pas très sécurisée surtout pour les filles. C’est sûrement des idées reçues mais la condition de la femme là-bas est pas fameuse et je n’ai pas envie de subir des remarques ou quoi encore plus qu’en France sachant que c’est un pays chaud et que les shorts et jupes seraient de sortie. Par contre j’aurais eu aucun soucis à me couvrir les cheveux s’il le fallait. Et de plus, je suis en alternance et je ne peux pas prendre une semaine pour le voyage… La prochaine fois 🤷&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Que c’est une très belle idée et qu’il ne faut pas abandonné&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Pas assez de communication sur les avantages apportés par un voyage en Afrique du Sud&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Oups, je me suis déjà pas mal exprimé sur la précédente question. Quitte à aller en Afrique, j’aurai bien souhaité aller dans un Safari, ou visiter plus d’endroits naturels.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Peut-être plus de visite comme le jardin krinstenbosh ou bien encore l’aquarium du cap et une journée au centre commercial victoria&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Ça aurai été l’occasion d’y aller, de mon plein gré je n’y aurait pas pensé&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;du-coup-on-est-daccord-cest-le-prix-qui-bloque-même-si-pas-que-&quot;&gt;Du coup, on est d’accord, c’est le prix qui bloque (même si pas que !)&lt;/h3&gt;
+
+&lt;p&gt;Il est vrai que c’est toujours mon challenge : arriver à vous proposez un voyage attractif (cutlurel / artistique / “pro”) à des prix cassés… Même si je ne suis pas là pour vous organiser un WEI, j’essaye toujours de ménager les € et me questionne beaucoup sur le prix pour optimiser le tout. Pour ma défense : &lt;a href=&quot;https://www.algofly.fr/blog/tarif-de-groupe-payer-moins-cher-billet-avion-979/&quot;&gt;NON les billets d’avions en groupe sont PLUS CHERS si vous les prenez seuls…&lt;/a&gt; 🧐&lt;/p&gt;
+
+&lt;p&gt;Du coup après avoir testé pas mal de formats, vos retours me confirment qu’il y a 2 barrières mentales :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Celle des 1000€.&lt;/li&gt;
+  &lt;li&gt;Et celle des 500€.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/annulation/voyage03.png&quot; width=&quot;100%&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;donc-où-est-ce-que-lon-se-casse-&quot;&gt;Donc, où est ce que l’on se casse ???&lt;/h2&gt;
+
+&lt;p&gt;Du coup, j’en viens à ce qui me semble le plus intéressant pour cette année. Car j’ai toujours une semaine qui me reste à disposition pour que je vous organise quelque chose. Au vu de l’engagement de vos réponses : je vais me challenger, on va tenter le participatif !&lt;/p&gt;
+
+&lt;p&gt;Je vais avoir besoin de vous pour :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Choisir la destination.&lt;/li&gt;
+  &lt;li&gt;Choisir le logement.&lt;/li&gt;
+  &lt;li&gt;Choisir les activités.&lt;/li&gt;
+  &lt;li&gt;Etc…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;L’idée va être que nous organisions un voyage 2.0 ensemble pour que je cible au mieux ! (cela ne m’empechera pas d’apporter des contraintes ;))
+Je vais revenir vers vous pour tout customiser et préparer !&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;on-commence-avec-la-destination-&quot;&gt;On commence avec la destination !&lt;/h2&gt;
+
+&lt;p&gt;C’est moi qui vais contraindre… Vu que l’idée est de viser une semaine à 500€ max. Et vu que nous sommes en janvier 2020. Visons l’Europe, ou la proche Europe (les visas c’est toujours long à demander !)&lt;/p&gt;
+
+&lt;p&gt;Je vais vous proposer 5 destinations aux votes pour ce voyage en gardant mon ADN en tête :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tirana. Capitale de l’Albanie, cette ville fera un super point de chute à 2 heures d’avion de Lyon pour que nous puissions orbiter à différents endroits dans le pays qui est ouvert sur l’Europe depuis seulement 20 ans. A l’histoire méconnue, l’Albanie, c’est un peu le mélange de l’Occident et de l’Orient.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Stockholm. Le nord, culture, nature, avancées sociales. Le coût de la vie reste certe plus cher. Mais il y a moyen de faire un beau voyage à tous les niveaux.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Moscou. Là, cela sera la seule destination internationale que je vais proposer ! Car, il peut y avoir des galères de VISA.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Madrid. Simple, actif, mouvant, efficace, culture, fiesta, pro ! Pourquoi aller loin ? ;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Athènes. Pas hyper foisonnant niveau professionnel, pas la peine de vous faire un dessin sur le passif culturel j’imagine !&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Donc, si vous souhaitez partir avec Ynov entre le 25 avril et le 3 mai 2020, je vous laisse voter pour votre destination qui vous inspire ;)&lt;/p&gt;
+
+&lt;main class=&quot;flex flex-wrap justify-around align-item items-center&quot;&gt;
+  &lt;div class=&quot;flex flex-column mb2 items-center&quot;&gt;
+    &lt;p&gt;&lt;button class=&quot;ampstart-btn ampstart-btn-secondary&quot;&gt;
+&lt;a href=&quot;https://forms.office.com/Pages/ResponsePage.aspx?id=uivnOCI8gkOTI6wWEpMSl61Yl9w0-2FDo33LU-NV4WBUQTJORlNMVjlIS0czRkcwRjZKQzJZTzZJTC4u &quot;&gt;VOTEZ ICI !&lt;/a&gt;
+&lt;/button&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/main&gt;
+
+&lt;p&gt;Résultat le 21 janvier à 12h !&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 05 Jan 2020 18:01:34 +0100</pubDate>
+        <link>http://localhost:4000//annulation-captown-ou-va-t-on</link>
+        <guid isPermaLink="true">http://localhost:4000//annulation-captown-ou-va-t-on</guid>
+        
+        <category>voyage</category>
+        
+        
+      </item>
     
       <item>
         <title>Voyage 2019-2020 : direction Cape Town !</title>
@@ -122,8 +463,8 @@ Le campus se réserve la possiblité d’annuler le voyage si moins de 30 person
 &lt;p&gt;10 places sont ouvertes aux alumnis 2018-2019, merci de contacter &lt;a href=&quot;mailto:antoine.gouy@ynov.com&quot;&gt;antoine.gouy@ynov.com&lt;/a&gt; pour booker votre place !&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Sep 2019 20:01:34 +0200</pubDate>
-        <link>http://voyages.ynovlyon.com//voyage-captown</link>
-        <guid isPermaLink="true">http://voyages.ynovlyon.com//voyage-captown</guid>
+        <link>http://localhost:4000//voyage-captown</link>
+        <guid isPermaLink="true">http://localhost:4000//voyage-captown</guid>
         
         <category>voyage</category>
         
@@ -176,8 +517,8 @@ Et je serais ravi d’échanger avec quiconque à ce sujet !&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 15 Aug 2019 15:34:12 +0200</pubDate>
-        <link>http://voyages.ynovlyon.com//souvenirs</link>
-        <guid isPermaLink="true">http://voyages.ynovlyon.com//souvenirs</guid>
+        <link>http://localhost:4000//souvenirs</link>
+        <guid isPermaLink="true">http://localhost:4000//souvenirs</guid>
         
         <category>voyage</category>
         
