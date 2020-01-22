@@ -5,9 +5,48 @@
     <description>Retrouvez toutes les informations des voyages organisés par le campus Ynov de Lyon.</description>
     <link>http://voyages.ynovlyon.com//</link>
     <atom:link href="http://voyages.ynovlyon.com//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Jan 2020 11:33:42 +0100</pubDate>
-    <lastBuildDate>Wed, 08 Jan 2020 11:33:42 +0100</lastBuildDate>
+    <pubDate>Wed, 22 Jan 2020 18:09:11 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Jan 2020 18:09:11 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Les résultats du sondage pour la nouvelle destination !</title>
+        <description>&lt;h2 id=&quot;97-répondants--un-grand-merci-&quot;&gt;97 répondants ! Un grand merci !&lt;/h2&gt;
+
+&lt;p&gt;Et vous avez plébiscité STOCKHOLM !&lt;/p&gt;
+
+&lt;p&gt;On va visé un budget vers les 500€ (va falloir jouer seré avec les pays du nord !)
+Comme vous avez été nombreux à répondre au sondage, je vous joins les détails ci-dessous :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/articles/20200122-resultatsondage/result.png&quot; width=&quot;100%&quot; layout=&quot;responsive&quot; alt=&quot;&quot; class=&quot;mb3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour ceux qui ont répondu d’autres destinations via le formulaire que je vous proposais, je vais échanger un peu avec votre BDE rapidement ! 
+Pas dis qu’un springbreak ne soit pas une bonne idée ! 🧐&lt;/p&gt;
+
+&lt;h2 id=&quot;et-maintenant-&quot;&gt;Et maintenant ?&lt;/h2&gt;
+
+&lt;p&gt;Et bien c’est parti pour une réorganisation complète que je vais commencer rapidement et vous partager de façon régulière (quel avion ? quelle activité ?)&lt;/p&gt;
+
+&lt;p&gt;Première étape, me reconfirmer que vous êtes chaud bouillant pour venir et anticiper le nombre que nous serions pour organiser çà (cela me permettra de vous envoyer de la communication, cela ne vaut pas inscription pas de stress)&lt;/p&gt;
+
+&lt;p&gt;On me remplis ce formulaire là :&lt;/p&gt;
+
+&lt;main class=&quot;flex flex-wrap justify-around align-item items-center&quot;&gt;
+  &lt;div class=&quot;flex flex-column mb2 items-center&quot;&gt;
+    &lt;p&gt;&lt;button class=&quot;ampstart-btn ampstart-btn-secondary&quot;&gt;
+&lt;a href=&quot;https://forms.office.com/Pages/ResponsePage.aspx?id=uivnOCI8gkOTI6wWEpMSl61Yl9w0-2FDo33LU-NV4WBUMkdYQlI0UlZDQlk3MVAySlFFQlpPRUw3WC4u &quot;&gt;JE VEUX VENIR ET JE LE DIS !&lt;/a&gt;
+&lt;/button&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/main&gt;
+</description>
+        <pubDate>Wed, 22 Jan 2020 16:04:34 +0100</pubDate>
+        <link>http://voyages.ynovlyon.com//resultat-du-sondage</link>
+        <guid isPermaLink="true">http://voyages.ynovlyon.com//resultat-du-sondage</guid>
+        
+        <category>voyage</category>
+        
+        
+      </item>
     
       <item>
         <title>Si on va pas en Afrique, on se casse où ?</title>
